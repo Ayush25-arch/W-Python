@@ -25,7 +25,7 @@ def main():
     dramatic_pause()
     print("⚠️  WARNING: Your brain is 73% slower than recommended!")
     dramatic_pause()
-    print("⚠️  ALERT: Dalla detected.")
+    print("⚠️  ALERT: Dalla raj detected.")
     dramatic_pause()
     print()
 
